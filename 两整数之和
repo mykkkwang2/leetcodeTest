@@ -1,0 +1,5 @@
+不使用运算符 + 和 - ​​​​​​​，计算两整数 ​​​​​​​a 、b ​​​​​​​之和。
+
+class Solution:
+    def getSum(self, a: int, b: int) -> int:
+        return sum([a,b])
